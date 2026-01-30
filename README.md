@@ -1,3 +1,3 @@
 # Cohort-Assignments
 
-HTML Resume single page assignments
+HTML Resume Page - Single Page Resume Website
