@@ -1,4 +1,4 @@
-# Cursor Landing Page - Clone Project
+# Cursor Landing Page 
 
 A desktop-first recreation of the Cursor AI Code Editor landing page, built with pure HTML and CSS (no frameworks, no JavaScript).
 
