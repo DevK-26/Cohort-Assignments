@@ -2,13 +2,13 @@
 
 A desktop-first recreation of the Cursor AI Code Editor landing page, built with pure HTML and CSS (no frameworks, no JavaScript).
 
-## 🎯 Project Overview
+## Project Overview
 
 This project recreates the Cursor website landing page with a focus on visual and structural accuracy. The goal was to match the original design as closely as possible in terms of layout, typography, colors, and overall visual hierarchy.
 
 
 
-## 📐 Sections Recreated
+##  Sections Recreated
 
 All 11 sections from the original Cursor website have been implemented:
 
@@ -76,45 +76,8 @@ Three alternating two-column layouts showcasing key features:
 - Social media links
 - Copyright information
 
-## 🎨 Design Specifications
-
-### Color Palette
-
-```css
-/* Background Colors */
---bg-primary: #0a0a0a;        /* Main background */
---bg-secondary: #111111;       /* Secondary surfaces */
---bg-card: #161616;            /* Card backgrounds */
---bg-elevated: #1e1e1e;        /* Elevated elements */
-
-/* Border Colors */
---border-color: #222222;       /* Primary borders */
---border-subtle: #1a1a1a;      /* Subtle dividers */
-
-/* Text Colors */
---text-primary: #f5f5f5;       /* Primary text */
---text-secondary: #a0a0a0;     /* Secondary text */
---text-tertiary: #666666;      /* Tertiary text */
-
-/* Accent Colors */
---accent-blue: #3b82f6;        /* Primary accent */
---accent-purple: #8b5cf6;      /* Secondary accent */
---white: #ffffff;              /* Pure white */
-```
 
 
-
-## 🛠️ Technical Implementation
-
-### CSS Techniques Used
-
-- **CSS Variables** for consistent theming
-- **CSS Grid** for multi-column layouts
-- **Flexbox** for component alignment
-- **Backdrop Filters** for glassmorphism effects
-- **Radial Gradients** for subtle glow effects
-- **Linear Gradients** for text effects
-- **CSS Animations** potential (not implemented per requirements)
 
 
 
